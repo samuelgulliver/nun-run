@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - HealthManager
+  - Nun
+  - Fireball
+  - EndMerchant
+  - BigNun
+  - Pope
+  - PopeProjectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2441457331
+    locked: 0
+  - name: Foreground
+    uniqueID: 3650544429
+    locked: 0
+  - name: Player
+    uniqueID: 3289750537
+    locked: 0
+  - name: Ground
+    uniqueID: 644793781
+    locked: 0
